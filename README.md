@@ -1,7 +1,5 @@
-#Simple Python Chatbot
+# Simple Python Chatbot
 A chatbot that can respond to basic prompts
-
-**Link to project:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/nathanqiuUCSB/Python-Chatbot/blob/main/Chatbot.ipynb)
 
 ## How It's Made:
 
